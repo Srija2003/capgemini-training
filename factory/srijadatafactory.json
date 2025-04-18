@@ -1,0 +1,9 @@
+{
+	"name": "srijadatafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b8dd1e6f-faf1-4a8d-b733-2ac6e5d163ed",
+		"tenantId": "42e44b01-5a7e-40e4-b52a-e090b9880432"
+	}
+}
